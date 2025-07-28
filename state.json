@@ -1,0 +1,23 @@
+{
+  "visual-studio-code-bin": {
+    "aur_version": "1.102.2-1",
+    "built_version": "1.102.2-1",
+    "last_checked": "2025-07-28T01:38:35.255910180Z",
+    "last_built": "2025-07-28T01:38:35.256167386Z",
+    "build_status": "Success"
+  },
+  "yay": {
+    "aur_version": "12.5.0-1",
+    "built_version": "12.5.0-1",
+    "last_checked": "2025-07-28T01:38:34.081196917Z",
+    "last_built": "2025-07-28T01:38:34.081416672Z",
+    "build_status": "Success"
+  },
+  "google-chrome": {
+    "aur_version": "138.0.7204.168-1",
+    "built_version": "138.0.7204.168-1",
+    "last_checked": "2025-07-28T01:38:34.651419338Z",
+    "last_built": "2025-07-28T01:38:34.651704727Z",
+    "build_status": "Success"
+  }
+}
